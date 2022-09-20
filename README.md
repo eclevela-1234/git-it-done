@@ -4,6 +4,8 @@
 
 **This program uses the fetch API to dynamically display user repos by simply inputting a github username. You can also drill down into each individual repo and display any open issues pertaining to the selected repo. This was a great intro into apis!**
 
+![screenshot](./assets/images/screenshot.png)
+
 ## Table of Contents
 
 
